@@ -1,0 +1,5 @@
+{
+  "name": "SEM Cropper & Scaler",
+  "description": "A professional tool to automatically crop SEM info bars and generate custom, scientifically accurate scale bars using Gemini Vision AI.",
+  "requestFramePermissions": []
+}
